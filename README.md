@@ -6,14 +6,14 @@
 
 - Ruby (Ruby on Rails)
 - Java (Spring Boot)
-- PHP (Laravel5, CakePHP3, CodeIgniter)
-- C# (.NET)
+- PHP (Laravel 5, CakePHP3, CodeIgniter)
+- C# (.NET Framework)
 - Scala (Skinny Framework)
 
 ### フロントエンド言語
 
 - HTML (Bootstrap)
-- CSS (SASS, LESS)
+- CSS (Sass, LESS)
 - JavaScript (Node.js, jQuery, React)
 
 ### アプリ開発
@@ -25,20 +25,20 @@
 
 - MariaDB
 - MySQL
-- Postgres
+- PostgreSQL
 - SQLite
 - Oracle
 
 ### OS
 
-- Windows10
+- Windows 10
 - Linux (CentOS, Ubuntu)
-- OSX
+- macOS
 
 ### Webサーバー
 
 - Apache2
-- Nginx
+- nginx
 
 ### CIツール
 
@@ -57,8 +57,8 @@
 ### 作業環境
 
 - エディタ (Atom, Eclipse, Visual Studio, VSCode)
-- 使用OS (Windows, OSX)
-- Git (GitBucket, GitHub, BitBucket)
+- 使用OS (Windows, macOS)
+- Git (GitBucket, GitHub, Bitbucket)
 - Vagrant
 - Docker
 - チャットツール (Slack, Chatwork)
