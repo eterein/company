@@ -40,6 +40,10 @@
 - Apache2
 - Nginx
 
+### CIツール
+
+- CircleCI
+
 ### クラウド
 
 - Heroku
@@ -52,9 +56,9 @@
 
 ### 作業環境
 
-- エディタ (Atom, Eclipse, Visual Studio)
+- エディタ (Atom, Eclipse, Visual Studio, VSCode)
 - 使用OS (Windows, OSX)
-- Git (GitBucket, GitHub)
+- Git (GitBucket, GitHub, BitBucket)
 - Vagrant
 - Docker
 - チャットツール (Slack, Chatwork)
